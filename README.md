@@ -93,6 +93,6 @@ Indicators is a [Julia](https://julialang.org) package offering efficient implem
   - ~~Slow Stochastics~
   - ~~Fast Stochastics~
   - ~~Stochastic Momentum Index~
-- ~~MMA (modified moving average)~
-- ~~ZLEMA (zero lag exponential moving average)~
-- ~~VWMA (volume-weighted moving average)~
+- ~~MMA (modified moving average)
+- ~~ZLEMA (zero lag exponential moving average)
+- ~~VWMA (volume-weighted moving average)
