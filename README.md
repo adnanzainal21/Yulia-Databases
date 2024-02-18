@@ -76,20 +76,7 @@ Indicators is a [Julia](https://julialang.org) package offering efficient implem
 - Too many more to name...always happy to hear suggestions though!
 
 ### Done
-- ~~Moving Linear Regression~
-- ~~KAMA (Kaufman adaptive moving average)~
-- ~~DEMA (double exponential moving average)~
-- ~~TEMA (tripe exponential moving average)~
-- ~~ALMA (Arnaud Legoux moving average)~
-- ~~Parabolic SAR~
-- ~~Williams %R~
-- ~~KST (know sure thing)~
-- ~~CCI (commodity channel index)~
-- ~~ROC (rate of change)~
-- ~~Momentum~
-- ~~Donchian Channel~
-- ~~Aroon Indicator / Aroon Oscillator~
-- ~~Stochastics~
+
   - ~~Slow Stochastics~
   - ~~Fast Stochastics~
   - ~~Stochastic Momentum Index~
